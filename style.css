@@ -2,7 +2,8 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     color: white;
-    background: linear-gradient(to bottom right, #4caf50, #81c784);
+    background: linear-gradient(to bottom right, #d80e0e, #d80e0e
+);
 }
 .container {
     background: white;
